@@ -43,14 +43,16 @@ Mapped the resulting $5 \times 5 \times 5 = 125$ possible score combinations int
 
 ### 1. The Variable Transformation and Quantile Array Pipeline
 Below is the data engineering workflow utilized to systematically transform fragmented transactional metadata strings into structured algorithmic profiles:
+
 ![RFM Quantile Method Pipeline](assets/rfm-quantile-method.png)
 
 ### 2. Rule-Based Cluster Allocation Matrix
 Accounts were automatically mapped into operational segments using a highly structured rule-based profiling index to isolate performance indicators:
+
 ![RFM Customer Segments Matrix](assets/rfm-customer-segments.png)
 
 ### 3. Large-Scale Regional Distribution Output
-The computational pipeline successfully categorized **17,006 national B2B accounts** across 11 key distribution regions (including Semarang, Solo, Yogyakarta, and Surabaya). This allowed corporate strategy teams to transition from generic campaigns to highly precise operational actions:
+The computational pipeline successfully categorized **17,006 regional B2B accounts** across 11 key distribution regions (including Semarang, Solo, Yogyakarta, and Surabaya). This allowed corporate strategy teams to transition from generic campaigns to highly precise operational actions:
 
 ![Regional RFM Distribution Matrix](assets/rfm-regional-matrix.png)
 
