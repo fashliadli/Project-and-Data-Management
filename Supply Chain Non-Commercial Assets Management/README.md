@@ -22,7 +22,7 @@ In large-scale B2B distribution networks, non-commercial corporate assets (such 
 The primary operational bottleneck was a complete lack of system transparency. Central data management dashboards tracked a massive national inventory float of **8,128,885 remaining stock units**, but localized field hubs reported frequent physical stockouts alongside undocumented data surpluses. 
 
 The circulation data network was highly fragmented across three major distribution streams:
-1. **Third-Party Distributors (93.5% of Total Volume):** Fragmented data flows handling localized "On-Faktur" (system-logged) and "Off-Faktur" (delayed/manual) distribution data.
+1. **Third-Party Distributors (93.5% of Total Volume):** Fragmented data flows handling localized "On-Invoice" (system-logged) and "Off-Invoice" (delayed/manual) distribution data.
 2. **Third-Party External Providers (3.9% of Total Volume):** Disconnected database structures managing specialized regional campaign assets.
 3. **In-House Finished Goods Warehouses (2.6% of Total Volume):** Serving as regional buffer storage centers.
 
@@ -36,7 +36,8 @@ To establish an absolute source of truth and eliminate data leakages, the invent
 
 ### 1. Multi-Channel Material Balance Modeling
 I mathematically modeled the supply chain data pipelines into a continuous mass-balance tracking framework across all circulating hub channels:
-Remaining Net Stock} = Initial Inventory + Inbound Volume - Outbound Volume
+
+Remaining Net Stock = Initial Inventory + Inbound Volume - Outbound Volume
 
 I traced and reconciled the full macro-circulation network, segmenting the data streams into a structured database hierarchy:
 
@@ -57,9 +58,9 @@ I traced and reconciled the full macro-circulation network, segmenting the data 
 ```
 
 ### 2. Identifying Systemic Inbound & Outbound Data Failure Points
-By tracking the *Inbound* data logistics process, I discovered that the standard *Purchasing & Distribution (PBD)* business workflow was too rigid and failed to accommodate real-world field exceptions. This structural mismatch forced regional teams to execute massive manual spreadsheet adjustments outside the centralized database, corrupting the digital data integrity. 
+By tracking the *Inbound* data logistics process, I discovered that the standard *PBD* business workflow was too rigid and failed to accommodate real-world field exceptions. This structural mismatch forced regional teams to execute massive manual spreadsheet adjustments outside the centralized database, corrupting the digital data integrity. 
 
-On the *Outbound* side, data friction occurred because 84% of distributor data flowed into the system smoothly ("On-Faktur" transactions), while the remaining 16% suffered from untracked distributor-level delays or manual reporting omission loops ("Off-Faktur" transactions).
+On the *Outbound* side, data friction occurred because 84% of distributor data flowed into the system smoothly ("On-Invoice" transactions), while the remaining 16% suffered from untracked distributor-level delays or manual reporting omission loops ("Off-Inovice" transactions).
 
 ### 3. Engineering an Algorithmic Root-Cause Diagnostic Architecture
 Instead of applying arbitrary data adjustments, I developed an **Algorithmic Discrepancy Evaluation Flowchart** for *Regional Sales Operations* to systematically reconcile physical stock variations against the digital dashboard on a bi-annual cycle:
