@@ -21,7 +21,7 @@ Projects from my five years at Nutrifood Indonesia (distribution, project and da
 - Scored each variable from 1 to 5 in quintiles and mapped the three-digit score by rules to named groups (for example Champions, Loyal, At risk, Lost).
 - Defined a treatment for each group, from rewards for the best customers to personal visits and win-back campaigns for large customers who were drifting away.
 - Compared the same customers across two periods to spot big customers that were slipping, and mapped the top customers to their sub-districts to show where to focus.
-- Presented the analysis to management in the area business review (June 2020).
+- Presented the analysis to management in the promotion assessment (June 2020).
 
 **Result:** the sales team got a ranked list of customers with an action for each, including large customers at risk that needed a visit first.
 
@@ -31,11 +31,11 @@ Projects from my five years at Nutrifood Indonesia (distribution, project and da
 
 **Problem:** the field team visiting modern retail outlets needed five different tools to know which items belong in an outlet, which were already there and how fast they sold. Visits were slow, and sales were lost when an item was missing from the shelf.
 
-**What I did (team of four, with a mentor):**
+**What I did:**
 - Sized the problem: for newly listed items we compared the month a chain listed the item with the month each outlet first ordered it, and valued the gap as potential lost sales.
 - Designed one integrated checklist per outlet, maintained by cluster of branches and not shop by shop, with item codes and barcodes taken from the company database instead of typed by hand.
 - Made the case for the change with a structured ideation (SCAMPER), a cost-benefit analysis with a measure for each benefit, and an action plan with owners and a timeline.
-- Presented the project in the final of the innovation competition IDEAFEST FIND 2023.
+- Presented the project in the final of the innovation competition IDEAFEST FIND 2023 and won as the second winner.
 
 **Result:** the integrated checklist now runs nationally.
 
