@@ -60,4 +60,4 @@ Projects from my five years at Nutrifood Indonesia (distribution, project and da
 
 ## Author
 
-Fashli Adli Wal Ikhsan · Dresden, Germany · [github.com/fashliadli](https://github.com/fashliadli)
+Fashli Adli Wal Ikhsan · github.com/fashliadli
