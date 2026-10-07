@@ -6,9 +6,9 @@ Projects from my five years at Nutrifood Indonesia (distribution, project and da
 
 | Project | Year | What I did |
 |---|---|---|
-| [Customer segmentation with RFM] | 2020 | Grouped distributor customers by recency, frequency and spend, and defined an action for each group |
-| [CLUE: one checklist for the field team] | 2023 | Replaced five separate tools with one integrated outlet checklist |
-| [GISEL: gimmick stock monitoring] | 2024 | Built dashboards that track the stock of promotional items and reconcile the records |
+| Customer segmentation with RFM | 2020 | Grouped distributor customers by recency, frequency and spend, and defined an action for each group |
+| CLUE: one checklist for the field team | 2023 | Replaced five separate tools with one integrated outlet checklist |
+| GISEL: gimmick stock monitoring | 2024 | Built dashboards that track the stock of promotional items and reconcile the records |
 
 ---
 
